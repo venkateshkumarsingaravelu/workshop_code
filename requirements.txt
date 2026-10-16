@@ -1,0 +1,7 @@
+openai
+python-dotenv==1.2.2
+tiktoken==0.13.0
+streamlit
+langchain
+langchain-openai
+langchain-community
